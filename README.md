@@ -39,12 +39,17 @@ Recommends jobs from resume skills and identifies skill gaps using an LLM for re
 - Deployed on Render with GitHub Actions
 - [Repository](https://github.com/Mahajan-Sachin/Skill-matcher)
 
+### JobFit AI
+Chrome and Edge extension for real-time resume-job fit scoring on LinkedIn and Indeed, using a Groq LLM and a Cloudflare Workers backend.
+- **Stack:** JavaScript, Groq API, Cloudflare Workers
+- [Chrome Web Store](https://chromewebstore.google.com/detail/jobfit-ai/bhamdkhdncjbcafblpedkdjmmnladpma)
+
 ### Phishing URL Detection
 XGBoost classifier for phishing URLs, trained on 11,000+ URLs with 58 features.
 - 91.38% accuracy, 0.97 ROC-AUC
 - **Stack:** Python, XGBoost, scikit-learn, Streamlit, Docker
 - Streamlit app with GitHub Actions CI/CD
-- [Repository](https://github.com/Mahajan-Sachin/phishing-detection)
+- [Repository](https://github.com/Mahajan-Sachin/Phishing)
 
 ---
 
